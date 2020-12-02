@@ -1,0 +1,19 @@
+{
+  "name": "os-lab3-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmaravlad/OS-lab3-scheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmaravlad/OS-lab3-scheduler/issues"
+  },
+  "homepage": "https://github.com/hmaravlad/OS-lab3-scheduler#readme"
+}
